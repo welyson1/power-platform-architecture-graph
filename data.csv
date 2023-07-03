@@ -1,0 +1,7 @@
+name,link,color,description,type,interactions
+Projects,https://link1.com,lightgreen,description description,Sharepoint list,"Team, Cost, Send email, Report cost"
+Team,https://link2.com,lightgreen,description description,Sharepoint list,"Report cost, Send email"
+Cost,https://link3.com,lightgreen,description description,Sharepoint list,"Report cost, Insert cost"
+Send email,https://link4.com,lightblue,description description,Power Automation,"Projects, Team"
+Insert cost,https://link5.com,lightpink,description description,Power Apps,Cost
+Report cost,https://link6.com,lightyellow,description description,Power BI,"Projects, Team, Cost"

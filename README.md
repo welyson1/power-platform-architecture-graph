@@ -16,13 +16,13 @@ This application allows you to build an architecture graph for Power Platform ba
 
 ## Screenshots
 
-![demo.gif](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![demo.gif](https://raw.githubusercontent.com/welyson1/power-platform-architecture-graph/development/demo.gif)
 
-![software.png](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![software.png](https://raw.githubusercontent.com/welyson1/power-platform-architecture-graph/development/software.png)
 
-![html_generated.png](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![html_generated.png](https://raw.githubusercontent.com/welyson1/power-platform-architecture-graph/development/html_generated.png)
 
-![graph.png](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![graph.png](https://raw.githubusercontent.com/welyson1/power-platform-architecture-graph/development/graph.png)
 
 
 ## Files
